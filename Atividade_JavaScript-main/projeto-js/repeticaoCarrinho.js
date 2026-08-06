@@ -395,10 +395,10 @@ for (let tentativa = 1; tentativa <= maxTentativas; tentativa++) {
 
 
 
-const numero = [1, 73, 4, 5, 6, 74, 5, 55, 32, 57, 77, 89, 200,];
+// const numero = [1, 73, 4, 5, 6, 74, 5, 55, 32, 57, 77, 89, 200,];
 
-const numerosMaiores = numero.filter((numero) => {
-    return numero >= 50;
-});
+// const numerosMaiores = numero.filter((numero) => {
+//     return numero >= 50;
+// });
 
-console.log(numerosMaiores)
+// console.log(numerosMaiores)
